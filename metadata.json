@@ -1,0 +1,6 @@
+{
+  "name": "Chrisviscus Technologies",
+  "description": "Enterprise CCTV, networking hardware, and scheduled installation & support services for Nigerian homes, SMEs, and ISPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
